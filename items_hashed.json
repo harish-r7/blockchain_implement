@@ -1,0 +1,512 @@
+[
+  {
+    "qr_id": "PROD001_BATCH01",
+    "product_name": "PureCare Moisturizer 01",
+    "type": "Moisturizer",
+    "manufactured_date": "2026-02-02",
+    "expiry_date": "2027-02-02",
+    "ingredients": [
+      "Ceramides",
+      "Salicylic Acid",
+      "Zinc Oxide",
+      "Glycerin"
+    ],
+    "batch_number": "PU-2026-01",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "8b4f2ab36cd8ef0f50bac6619a9b21cd14a312e38655648d36f88fbc8f6f9b76"
+  },
+  {
+    "qr_id": "PROD002_BATCH01",
+    "product_name": "SkinZen Sunscreen 02",
+    "type": "Sunscreen",
+    "manufactured_date": "2026-02-03",
+    "expiry_date": "2027-02-03",
+    "ingredients": [
+      "Panthenol",
+      "Hyaluronic Acid",
+      "Ceramides",
+      "Aloe Vera",
+      "Niacinamide"
+    ],
+    "batch_number": "SK-2026-02",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "c81d5974e15440e4ddcb32b19b2237ad3acd2e035f158c29887c17d28ecfd38c"
+  },
+  {
+    "qr_id": "PROD003_BATCH01",
+    "product_name": "AquaNature Shampoo 03",
+    "type": "Shampoo",
+    "manufactured_date": "2026-02-04",
+    "expiry_date": "2027-02-04",
+    "ingredients": [
+      "Vitamin C",
+      "Aloe Vera",
+      "Panthenol"
+    ],
+    "batch_number": "AQ-2026-03",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "263e18d445650eb4a837a7fcf6a3ea7e5eaea934b9ecd033e5756df117141065"
+  },
+  {
+    "qr_id": "PROD004_BATCH01",
+    "product_name": "BioBloom Serum 04",
+    "type": "Serum",
+    "manufactured_date": "2026-02-05",
+    "expiry_date": "2027-02-05",
+    "ingredients": [
+      "Alcohol Denat",
+      "Panthenol",
+      "Fragrance",
+      "Vitamin C"
+    ],
+    "batch_number": "BI-2026-04",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "6c8e91fe277832cd96e1976723458c1c610e7a3e7121c1416815949de57f8710"
+  },
+  {
+    "qr_id": "PROD005_BATCH01",
+    "product_name": "DermaGlow Toner 05",
+    "type": "Toner",
+    "manufactured_date": "2026-02-06",
+    "expiry_date": "2027-02-06",
+    "ingredients": [
+      "Panthenol",
+      "Ceramides",
+      "Salicylic Acid",
+      "Alcohol Denat",
+      "Glycerin"
+    ],
+    "batch_number": "DE-2026-05",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "7f382dc881c4a755f1bfab915b34c86fc9ad20ea2ae0cec55e858999d958cd0e"
+  },
+  {
+    "qr_id": "PROD006_BATCH01",
+    "product_name": "PureCare Face Wash 06",
+    "type": "Face Wash",
+    "manufactured_date": "2026-02-07",
+    "expiry_date": "2027-02-07",
+    "ingredients": [
+      "Glycerin",
+      "Aloe Vera",
+      "Fragrance"
+    ],
+    "batch_number": "PU-2026-06",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "f5cbcd5ffec0057c70db4808a1029a107e986a4e91b4fc15be1cb934ac998c8c"
+  },
+  {
+    "qr_id": "PROD007_BATCH01",
+    "product_name": "SkinZen Moisturizer 07",
+    "type": "Moisturizer",
+    "manufactured_date": "2026-02-08",
+    "expiry_date": "2027-02-08",
+    "ingredients": [
+      "Panthenol",
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Zinc Oxide"
+    ],
+    "batch_number": "SK-2026-07",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "a91542fd1b2d79fc61509cd8a64ae95ec20f300af3844a2b73e3c24629c9251f"
+  },
+  {
+    "qr_id": "PROD008_BATCH01",
+    "product_name": "AquaNature Sunscreen 08",
+    "type": "Sunscreen",
+    "manufactured_date": "2026-02-09",
+    "expiry_date": "2027-02-09",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc Oxide",
+      "Salicylic Acid",
+      "Ceramides",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "AQ-2026-08",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "931e9a0b21a242b99b55a89bdaef4c0fb078ee3bf0c23b439719edeb5dce3c79"
+  },
+  {
+    "qr_id": "PROD009_BATCH01",
+    "product_name": "BioBloom Shampoo 09",
+    "type": "Shampoo",
+    "manufactured_date": "2026-02-10",
+    "expiry_date": "2027-02-10",
+    "ingredients": [
+      "Aloe Vera",
+      "Niacinamide",
+      "Zinc Oxide"
+    ],
+    "batch_number": "BI-2026-09",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "f443def2ee521d0b9e838db56f98f6c60bcb265a8e31211534a00b6915737e0c"
+  },
+  {
+    "qr_id": "PROD010_BATCH01",
+    "product_name": "DermaGlow Serum 10",
+    "type": "Serum",
+    "manufactured_date": "2026-02-11",
+    "expiry_date": "2027-02-11",
+    "ingredients": [
+      "Aloe Vera",
+      "Vitamin C",
+      "Glycerin",
+      "Alcohol Denat"
+    ],
+    "batch_number": "DE-2026-10",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "45b4a5448649e96791e3777335a50fa9d1c9cfab25f86b625bd8b8f8f14319ed"
+  },
+  {
+    "qr_id": "PROD011_BATCH01",
+    "product_name": "PureCare Toner 11",
+    "type": "Toner",
+    "manufactured_date": "2026-02-12",
+    "expiry_date": "2027-02-12",
+    "ingredients": [
+      "Shea Butter",
+      "Niacinamide",
+      "Panthenol",
+      "Aloe Vera",
+      "Ceramides"
+    ],
+    "batch_number": "PU-2026-11",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "4ac5fc804d76f6248bb8e43707a03927f7e148db5f4224227b634ba0255d611a"
+  },
+  {
+    "qr_id": "PROD012_BATCH01",
+    "product_name": "SkinZen Face Wash 12",
+    "type": "Face Wash",
+    "manufactured_date": "2026-02-13",
+    "expiry_date": "2027-02-13",
+    "ingredients": [
+      "Niacinamide",
+      "Ceramides",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "SK-2026-12",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "328bc9f22285a99e8f24f1e5216a30267fdec41eb3ea79c18395a1a570caa241"
+  },
+  {
+    "qr_id": "PROD013_BATCH01",
+    "product_name": "AquaNature Moisturizer 13",
+    "type": "Moisturizer",
+    "manufactured_date": "2026-02-14",
+    "expiry_date": "2027-02-14",
+    "ingredients": [
+      "Zinc Oxide",
+      "Shea Butter",
+      "Niacinamide",
+      "Fragrance"
+    ],
+    "batch_number": "AQ-2026-13",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "2ec63809701482541afcdcc84b8e0def1cf3bbbde80c8458a3aa7d672c8aceeb"
+  },
+  {
+    "qr_id": "PROD014_BATCH01",
+    "product_name": "BioBloom Sunscreen 14",
+    "type": "Sunscreen",
+    "manufactured_date": "2026-02-15",
+    "expiry_date": "2027-02-15",
+    "ingredients": [
+      "Fragrance",
+      "Aloe Vera",
+      "Panthenol",
+      "Glycerin",
+      "Niacinamide"
+    ],
+    "batch_number": "BI-2026-14",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "59dc0caa7c253cd06e3a0037154e21889a87c6e2dd69b0a3fd01c8290d3f1ad0"
+  },
+  {
+    "qr_id": "PROD015_BATCH01",
+    "product_name": "DermaGlow Shampoo 15",
+    "type": "Shampoo",
+    "manufactured_date": "2026-02-16",
+    "expiry_date": "2027-02-16",
+    "ingredients": [
+      "Salicylic Acid",
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "DE-2026-15",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "ec30c1e6760328c74705e7d3eb5bad05da890a2bb2bf785c72f1fdcfb47a4ca7"
+  },
+  {
+    "qr_id": "PROD016_BATCH01",
+    "product_name": "PureCare Serum 16",
+    "type": "Serum",
+    "manufactured_date": "2026-02-17",
+    "expiry_date": "2027-02-17",
+    "ingredients": [
+      "Ceramides",
+      "Shea Butter",
+      "Panthenol",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "PU-2026-16",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "9d535f6fbb15c2e0fadedcf365d2cde51304cc36420f960b39b7d9a8d0f9f457"
+  },
+  {
+    "qr_id": "PROD017_BATCH01",
+    "product_name": "SkinZen Toner 17",
+    "type": "Toner",
+    "manufactured_date": "2026-02-18",
+    "expiry_date": "2027-02-18",
+    "ingredients": [
+      "Niacinamide",
+      "Panthenol",
+      "Hyaluronic Acid",
+      "Glycerin",
+      "Ceramides"
+    ],
+    "batch_number": "SK-2026-17",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "3bdc12c5fe2409a16b6cc6bd3eba5182d4a6819b673cb1da15c91df512e345b7"
+  },
+  {
+    "qr_id": "PROD018_BATCH01",
+    "product_name": "AquaNature Face Wash 18",
+    "type": "Face Wash",
+    "manufactured_date": "2026-02-19",
+    "expiry_date": "2027-02-19",
+    "ingredients": [
+      "Alcohol Denat",
+      "Niacinamide",
+      "Aloe Vera"
+    ],
+    "batch_number": "AQ-2026-18",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "ebf1c6f5cd880b80b77d8efd8e838cb00f1d02550b54c374f8d2e45467d22a4f"
+  },
+  {
+    "qr_id": "PROD019_BATCH01",
+    "product_name": "BioBloom Moisturizer 19",
+    "type": "Moisturizer",
+    "manufactured_date": "2026-02-20",
+    "expiry_date": "2027-02-20",
+    "ingredients": [
+      "Shea Butter",
+      "Alcohol Denat",
+      "Zinc Oxide",
+      "Niacinamide"
+    ],
+    "batch_number": "BI-2026-19",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "004b2b07d99a9fbdc04674e5e70a9be4e3a8af8eb1278733018e8ad8d24e58b3"
+  },
+  {
+    "qr_id": "PROD020_BATCH01",
+    "product_name": "DermaGlow Sunscreen 20",
+    "type": "Sunscreen",
+    "manufactured_date": "2026-02-21",
+    "expiry_date": "2027-02-21",
+    "ingredients": [
+      "Zinc Oxide",
+      "Fragrance",
+      "Salicylic Acid",
+      "Vitamin C",
+      "Panthenol"
+    ],
+    "batch_number": "DE-2026-20",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "15792eb2e0c911fd33a79c610aff259d664596f5f2ccd9bd90a193daffd6e9e9"
+  },
+  {
+    "qr_id": "PROD021_BATCH01",
+    "product_name": "PureCare Shampoo 21",
+    "type": "Shampoo",
+    "manufactured_date": "2026-02-22",
+    "expiry_date": "2027-02-22",
+    "ingredients": [
+      "Vitamin C",
+      "Glycerin",
+      "Aloe Vera"
+    ],
+    "batch_number": "PU-2026-21",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "1f600e43efb1c0e8f61724247a262eca171100edd15d260540a87d904082ffb0"
+  },
+  {
+    "qr_id": "PROD022_BATCH01",
+    "product_name": "SkinZen Serum 22",
+    "type": "Serum",
+    "manufactured_date": "2026-02-23",
+    "expiry_date": "2027-02-23",
+    "ingredients": [
+      "Zinc Oxide",
+      "Niacinamide",
+      "Glycerin",
+      "Aloe Vera"
+    ],
+    "batch_number": "SK-2026-22",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "22e08d1d64c6f17b65764955290ea33a88b64d627620bc6c1e8987173ccf74bf"
+  },
+  {
+    "qr_id": "PROD023_BATCH01",
+    "product_name": "AquaNature Toner 23",
+    "type": "Toner",
+    "manufactured_date": "2026-02-24",
+    "expiry_date": "2027-02-24",
+    "ingredients": [
+      "Fragrance",
+      "Panthenol",
+      "Alcohol Denat",
+      "Glycerin",
+      "Salicylic Acid"
+    ],
+    "batch_number": "AQ-2026-23",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "f04d28b4392f4d0783d0079e9ea7c24efb2598d4a2c8ede88aacbcc569a71d94"
+  },
+  {
+    "qr_id": "PROD024_BATCH01",
+    "product_name": "BioBloom Face Wash 24",
+    "type": "Face Wash",
+    "manufactured_date": "2026-02-25",
+    "expiry_date": "2027-02-25",
+    "ingredients": [
+      "Vitamin C",
+      "Zinc Oxide",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "BI-2026-24",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "ef64bd9bd59d92caca3f724af34a8caf21e0a5e792225eacc4c2f3285ea428d8"
+  },
+  {
+    "qr_id": "PROD025_BATCH01",
+    "product_name": "DermaGlow Moisturizer 25",
+    "type": "Moisturizer",
+    "manufactured_date": "2026-02-26",
+    "expiry_date": "2027-02-26",
+    "ingredients": [
+      "Glycerin",
+      "Vitamin C",
+      "Ceramides",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "DE-2026-25",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "946547d8e1b5d0dad3ea7202a6cfb0a2fb09705d3ec2240981219af6806cf05e"
+  },
+  {
+    "qr_id": "PROD026_BATCH01",
+    "product_name": "PureCare Sunscreen 26",
+    "type": "Sunscreen",
+    "manufactured_date": "2026-02-27",
+    "expiry_date": "2027-02-27",
+    "ingredients": [
+      "Vitamin C",
+      "Ceramides",
+      "Glycerin",
+      "Salicylic Acid",
+      "Hyaluronic Acid"
+    ],
+    "batch_number": "PU-2026-26",
+    "origin": "Mumbai",
+    "is_expired": false,
+    "record_hash": "d34d023a38ac4df9d52859a536ba7fd2c26f1c6164a78d2f1fc07d8f866975d5"
+  },
+  {
+    "qr_id": "PROD027_BATCH01",
+    "product_name": "SkinZen Shampoo 27",
+    "type": "Shampoo",
+    "manufactured_date": "2026-02-28",
+    "expiry_date": "2027-02-28",
+    "ingredients": [
+      "Vitamin C",
+      "Aloe Vera",
+      "Ceramides"
+    ],
+    "batch_number": "SK-2026-27",
+    "origin": "Bengaluru",
+    "is_expired": false,
+    "record_hash": "24e8abd42dd40b188ed34824ce6d2210bbc9c98daa03e83d9a001709f624902d"
+  },
+  {
+    "qr_id": "PROD028_BATCH01",
+    "product_name": "AquaNature Serum 28",
+    "type": "Serum",
+    "manufactured_date": "2026-03-01",
+    "expiry_date": "2027-03-01",
+    "ingredients": [
+      "Alcohol Denat",
+      "Salicylic Acid",
+      "Shea Butter",
+      "Glycerin"
+    ],
+    "batch_number": "AQ-2026-28",
+    "origin": "Delhi",
+    "is_expired": false,
+    "record_hash": "c406e4eec82175e6e3118448036924afe47d2aaba0d620d8d603b69617c8ccbe"
+  },
+  {
+    "qr_id": "PROD029_BATCH01",
+    "product_name": "BioBloom Toner 29",
+    "type": "Toner",
+    "manufactured_date": "2026-03-02",
+    "expiry_date": "2027-03-02",
+    "ingredients": [
+      "Shea Butter",
+      "Niacinamide",
+      "Panthenol",
+      "Aloe Vera",
+      "Fragrance"
+    ],
+    "batch_number": "BI-2026-29",
+    "origin": "Hyderabad",
+    "is_expired": false,
+    "record_hash": "5f35ed2c3aa947718e68e2c0421c9bc256e9acdba482c5e0e1b3ab206e30eb73"
+  },
+  {
+    "qr_id": "PROD030_BATCH01",
+    "product_name": "DermaGlow Face Wash 30",
+    "type": "Face Wash",
+    "manufactured_date": "2026-03-03",
+    "expiry_date": "2027-03-03",
+    "ingredients": [
+      "Ceramides",
+      "Shea Butter",
+      "Aloe Vera"
+    ],
+    "batch_number": "DE-2026-30",
+    "origin": "Chennai",
+    "is_expired": false,
+    "record_hash": "9f41ab3f22c6b964466a25fb4d3ccc51156640305ee24b921c3b5039ccb1fd75"
+  }
+]
